@@ -1,0 +1,26 @@
+body{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.card{
+    width: 250px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.box{
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 50px;
+    width: 50%;
+    padding: 30px;
+    padding-left: 60px;
+}
+
+.chbox{
+    height: 30px;
+    width: 30px;
+    display: flex;
+    float: right;
+}
